@@ -41,7 +41,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.12.2" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.34.0" />
 	  <PackageReference Include="Azure.Identity" Version="1.5.0-beta.3" />
     <PackageReference Include="AspNetCore.HealthChecks.AzureServiceBus" Version="5.1.1" />
     <PackageReference Include="AspNetCore.HealthChecks.AzureStorage" Version="5.0.1" />
