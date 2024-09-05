@@ -37,7 +37,7 @@
     "@angular/platform-browser-dynamic": "11.2.14",
     "@angular/platform-server": "11.2.14",
     "@angular/router": "11.2.14",
-    "@microsoft/signalr": "3.0.1",
+    "@microsoft/signalr": "5.0.0",
     "@ng-bootstrap/ng-bootstrap": "^8.0.0",
     "@popperjs/core": "2.0.0",
     "acorn": "^6.4.1",
@@ -56,8 +56,8 @@
     "rxjs-compat": "^6.5.2",
     "ssri": ">=8.0.1",
     "tslib": "^2.0.0",
-    "typedoc": "0.22.11",
-    "webpack-dev-server": "4.7.4",
+    "typedoc": "0.22.13",
+    "webpack-dev-server": "5.1.0",
     "zone.js": "~0.10.2"
   },
   "devDependencies": {
@@ -90,7 +90,7 @@
     "ts-helpers": "1.1.2",
     "ts-node": "~7.0.1",
     "tslint": "~6.1.0",
-    "typedoc": "0.22.11",
+    "typedoc": "0.22.13",
     "typescript": "4.0.8",
     "url-loader": "1.1.1",
     "webpack": "^4.42.1"
